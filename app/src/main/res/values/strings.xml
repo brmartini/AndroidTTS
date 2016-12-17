@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidTTS</string>
+    <string name="speech_prompt">OLA, DIGA UM COMANDO</string>
+    <string name="speech_not_supported">NAO</string>
+</resources>
